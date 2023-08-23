@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386700962154",
+    "project_id": "fir-test-cadb2",
+    "storage_bucket": "fir-test-cadb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386700962154:android:be16b2ece779fcc52e9d13",
+        "android_client_info": {
+          "package_name": "com.example.ocr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386700962154-h0ek43fgn6qvfkepak3gq9e9c3c7rpvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5x6ToDDfy2MtzOVJ_8A1Fcgm7IST5-pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386700962154-h0ek43fgn6qvfkepak3gq9e9c3c7rpvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
